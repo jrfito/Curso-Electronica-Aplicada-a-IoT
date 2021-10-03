@@ -1,2 +1,2 @@
 # Curso-Electronica-Aplicada-a-IoT
-Curso actualmente tomado de Polotic Misiones Argentina
+Curso actualmente tomando Polotic Misiones Argentina
